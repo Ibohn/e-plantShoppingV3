@@ -324,7 +324,7 @@ body {
 .App{
   position: relative;
   min-height: 100vh;
-  background-image: url('/bp.jpg');
+  background-image: url('https://unsplash.com/photos/modern-kitchen-and-dining-area-with-large-windows-8FIqK2J7jSc?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
